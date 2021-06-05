@@ -2,7 +2,7 @@ param (
 	[string]$o = "document.pdf"
 )
 
-$repo = "tydea/Documentation.Automation.Pandoc"
+$repo = "thierryiseli/Documentation.Automation.Pandoc"
 $file = "template.pandoc.zip"
 $releases = "https://api.github.com/repos/$repo/releases"
 
